@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "DACF8ED5112A9EF280DEE2AA3B8AA71F",
+  "keywordClasses": [
+    {
+      "name": "actions.comon_actions",
+      "keywordMethods": [
+        {
+          "name": "Scroll",
+          "parameters": [
+            {
+              "name": "testObject",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
